@@ -1,3 +1,13 @@
+<![CDATA[/* 
+-----------------------------------------------
+Blogger Template Style
+Name:        uBook
+Version:     Free Version
+Author:      Sora Templates
+Author Url:  https://www.soratemplates.com/
+----------------------------------------------- */
+
+/*
 <!-- Variable definitions -->
 <Variable name="keycolor" description="Main Color" type="color" hideEditor="true" default="$(main.color)" value="#ff8466"/>
 <Variable name="followByEmail" description="Follow By Email Text" type="string" hideEditor="true" default="Get all latest content delivered straight to your inbox." value="Get all latest content delivered straight to your inbox."/>
@@ -485,3 +495,4 @@ ul.related-posts{display:flex;flex-wrap:wrap}
 .errorWrap h3{font-size:120px}
 .errorWrap h4{font-weight:700}
 }
+]]>
